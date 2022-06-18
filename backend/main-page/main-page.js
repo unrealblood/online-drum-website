@@ -1,11 +1,11 @@
 //fetch sounds
-var kickSound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/kick-bass.mp3");
-var snareSound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/snare.mp3");
-var tom1Sound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/tom-1.mp3");
-var tom2Sound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/tom-2.mp3");
-var tom3Sound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/tom-3.mp3");
-var tom4Sound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/tom-4.mp3");
-var crashSound = new Audio("https://github.com/unrealblood/online-drum-website/raw/main/resources/sounds/crash.mp3");
+var kickSound = new Audio("resources/sounds/kick-bass.mp3");
+var snareSound = new Audio("resources/sounds/snare.mp3");
+var tom1Sound = new Audio("resources/sounds/tom-1.mp3");
+var tom2Sound = new Audio("resources/sounds/tom-2.mp3");
+var tom3Sound = new Audio("resources/sounds/tom-3.mp3");
+var tom4Sound = new Audio("resources/sounds/tom-4.mp3");
+var crashSound = new Audio("resources/sounds/crash.mp3");
 
 //current sound file holder
 var currentSound = new Audio();
