@@ -1,3 +1,51 @@
 body {
-    background-color: darkmagenta;
+    background-color: darkorange;
+}
+
+.page-title {
+    width: 40%;
+    margin: 150px auto 0 auto;
+   
+    text-align: center;
+    font-size: 5.65rem;
+    color: white;
+}
+
+.drum-instruments-container {
+    width: 80%;
+    margin: 100px auto 0 auto;
+}
+
+.drum-instruments-table-body {
+    background-color: #ffffff40;
+}
+
+.drum-instruments-image-container {
+    width: 215px;
+    height: 215px;
+    background-color: #ffffff8c;
+}
+
+.drum-instruments-image-container:hover {
+    background-color: #ffffff40;
+}
+
+
+.drum-instruments-image {
+    width: 200px;
+    height: 200px;
+    
+    position: relative;
+    top: 7.5px;
+    left: 7.5px;
+}
+
+.drum-instruments-table-foot {
+    background-color: #ffffff40;
+    text-align: center;
+}
+
+.drum-instruments-button-label {
+    font-style: oblique;
+    font-size: 30px;
 }
