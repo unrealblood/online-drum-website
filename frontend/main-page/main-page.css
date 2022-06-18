@@ -12,8 +12,11 @@ body {
 }
 
 .drum-instruments-container {
-    width: 80%;
-    margin: 100px auto 0 auto;
+    margin: 100px auto;
+}
+
+.drum-instruments-table {
+    margin: 0 auto;
 }
 
 .drum-instruments-table-body {
@@ -21,8 +24,8 @@ body {
 }
 
 .drum-instruments-image-container {
-    width: 215px;
-    height: 215px;
+    width: 13.438rem;
+    height: 13.438rem;
     background-color: #ffffff8c;
 }
 
@@ -32,8 +35,8 @@ body {
 
 
 .drum-instruments-image {
-    width: 200px;
-    height: 200px;
+    width: 12.5rem;
+    height: 12.5rem;
     
     position: relative;
     top: 7.5px;
