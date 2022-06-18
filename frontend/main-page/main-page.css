@@ -1,3 +1,22 @@
 body {
     background-color: darkmagenta;
 }
+
+.page-title {
+    width: 30%;
+    margin: 150px auto 0 auto;
+    
+    text-align: center;
+    font-size: 5.65rem;
+    color: white;
+}
+
+.drum-instruments-container {
+    width: 80%;
+    margin: 100px auto 0 auto;
+}
+
+.drum-instruments-image {
+    width: 200px;
+    height: 200px;
+}
